@@ -1,5 +1,4 @@
-# vmehta-astro.github.io
-Vrutant Mehta's personal Web-page
+# Vrutant Mehta's personal Web-page
 
 # Hi everyone. I am Vrutant Mehta. Welcome to My Webpage.
 
